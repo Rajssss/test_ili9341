@@ -1,0 +1,17 @@
+ili9341.c:322:6:ili9341_DisplayOn	8	static
+ili9341.c:336:6:ili9341_DisplayOff	8	static
+ili9341.c:350:10:ili9341_GetLcdPixelWidth	4	static
+ili9341.c:361:10:ili9341_GetLcdPixelHeight	4	static
+ili9341.c:373:10:ili9341_ReadID	16	static
+ili9341.c:389:6:ili9341_Init	16	static
+ili9341.c:460:6:ili9341_SetCursor	16	static
+ili9341.c:475:6:ili9341_WritePixel	16	static
+ili9341.c:490:10:ili9341_ReadPixel	24	static
+ili9341.c:511:6:ili9341_SetDisplayWindow	24	static
+ili9341.c:529:6:ili9341_DrawHLine	24	static
+ili9341.c:547:6:ili9341_DrawVLine	24	static
+ili9341.c:566:6:ili9341_FillRect	24	static
+ili9341.c:584:6:ili9341_DrawBitmap	24	static
+ili9341.c:613:6:ili9341_DrawRGBImage	24	static
+ili9341.c:632:6:ili9341_ReadRGBImage	24	static
+ili9341.c:650:6:ili9341_Scroll	16	static
